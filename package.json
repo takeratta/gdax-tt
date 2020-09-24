@@ -47,7 +47,7 @@
     "@types/ws": "0.0.37",
     "bignumber.js": "5.0.0",
     "bintrees": "1.0.1",
-    "ccxt": "1.12.137",
+    "ccxt": "1.18.625",
     "commander": "2.9.0",
     "gdax": "0.7.0",
     "limiter": "1.1.2",
