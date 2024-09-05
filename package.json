@@ -52,7 +52,7 @@
     "gdax": "0.7.0",
     "limiter": "1.1.2",
     "node-bittrex-api": "0.7.7",
-    "pushbullet": "2.0.0",
+    "pushbullet": "3.0.0",
     "querystring": "0.2.0",
     "simple-mock": "0.8.0",
     "simple-statistics": "5.1.0",
